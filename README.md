@@ -16,3 +16,4 @@ Users can enter their *Date of Birth, and the app will display their **exact age
 - *HTML* – Structure and Layout
 - *CSS* – Styling and Responsiveness
 - *JavaScript* – Core Logic for Age Calculation
+By Ramya
